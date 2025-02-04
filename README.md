@@ -1,4 +1,4 @@
-📊 Projeto de Análise de Dados com Python, SQL e Looker Studio
+#📊 Projeto de Análise de Dados com Python, SQL e Looker Studio#
 
 ## 📌 Sobre o Projeto
 Este projeto tem como objetivo explorar dados de um e-commerce, armazená-los em um banco de dados SQLite e gerar relatórios e gráficos interativos no Looker Studio.
