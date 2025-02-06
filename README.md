@@ -11,12 +11,7 @@ Este projeto tem como objetivo explorar dados de um e-commerce, armazená-los em
 
 ## 📂 Estrutura do Projeto
 ```
-📁 Dados-LockerStudio
-│-- 📜 setup_database.py  # Criação do banco de dados e tabelas
-│-- 📜 insert_data.py     # Inserção de dados fictícios no banco
-│-- 📜 consultas.py       # Consultas SQL para análise de dados
-│-- 📜 README.md          # Documentação do projeto
-│-- 📜 requirements.txt   # Dependências do projeto
+📁 Dados-LockerStudio │-- 📜 analise.py # Análise e visualização de dados com gráficos │-- 📜 consultas.py # Consultas SQL para análise de dados │-- 📜 insert_data.py # Inserção de dados fictícios no banco │-- 📜 README.md # Documentação do projeto │-- 📜 requirements.txt # Dependências do projeto
 ```
 
 ## 🔧 Configuração do Ambiente
@@ -51,12 +46,19 @@ Este projeto tem como objetivo explorar dados de um e-commerce, armazená-los em
    ```bash
    python consultas.py
    ```
+Analisar dados e gerar gráficos
+   ```bash
+   python analise.py
+   ```
 
 ## 📈 Integração com Looker Studio
 Para visualizar os dados no **Looker Studio**:
 1. Conecte o **Google Sheets** ao seu banco de dados SQLite exportando os dados.
 2. Importe os dados do **Google Sheets** para o **Looker Studio**.
 3. Crie gráficos e dashboards interativos.
+## 🌐 Link do Looker Studio
+Acesse os dashboards interativos no Looker Studio através deste [link](https://lookerstudio.google.com/reporting/e4feb973-42eb-4fcc-845a-edd0e46aca72)
+
 
 ## 📌 Consultas SQL de Exemplo
 ```sql
