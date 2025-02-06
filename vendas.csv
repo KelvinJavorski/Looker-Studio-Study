@@ -1,4 +1,31 @@
-ID,Cliente,Produto,Quantidade,Total
-1,João Silva,Notebook,1,3500.0
-2,Maria Souza,Smartphone,2,4400.0
-3,Carlos Lima,Cadeira Gamer,1,1200.0
+ID,Cliente,Produto,Quantidade,Total,Data da Compra
+1,João Silva,Notebook,1,3500.0,2025-02-04
+2,Maria Souza,Smartphone,2,4400.0,2025-02-04
+3,Carlos Lima,Cadeira Gamer,1,1200.0,2025-02-04
+4,João Silva,Notebook,1,3500.0,2025-02-06
+5,Maria Souza,Smartphone,2,4400.0,2025-02-06
+6,Carlos Lima,Cadeira Gamer,1,1200.0,2025-02-06
+7,João Silva,Notebook,1,3500.0,2025-02-06
+8,Maria Souza,Smartphone,2,4400.0,2025-02-06
+9,Carlos Lima,Cadeira Gamer,1,1200.0,2025-02-06
+10,João Silva,Notebook,1,3500.0,2025-02-06
+11,Maria Souza,Smartphone,2,4400.0,2025-02-06
+12,Carlos Lima,Cadeira Gamer,1,1200.0,2025-02-06
+13,João Silva,Notebook,1,3500.0,2024-08-12
+14,Maria Souza,Smartphone,2,4400.0,2024-08-17
+15,Carlos Lima,Cadeira Gamer,1,1200.0,2024-12-16
+16,João Silva,Monitor 27',1,1500.0,2024-11-27
+17,Maria Souza,Notebook,2,7000.0,2024-09-06
+18,Carlos Lima,Smartphone,1,2200.0,2025-01-27
+19,João Silva,Notebook,1,3500.0,2024-11-09
+20,Maria Souza,Smartphone,2,4400.0,2024-11-29
+21,Carlos Lima,Cadeira Gamer,1,1200.0,2024-09-24
+22,João Silva,Monitor 27',1,1500.0,2024-10-09
+23,Maria Souza,Notebook,2,7000.0,2024-10-18
+24,Carlos Lima,Smartphone,1,2200.0,2024-12-28
+25,João Silva,Notebook,1,3500.0,2024-12-18
+26,Maria Souza,Smartphone,2,4400.0,2025-01-28
+27,Carlos Lima,Cadeira Gamer,1,1200.0,2025-01-23
+28,João Silva,Monitor 27',1,1500.0,2025-01-01
+29,Maria Souza,Notebook,2,7000.0,2024-12-24
+30,Carlos Lima,Smartphone,1,2200.0,2025-01-30
