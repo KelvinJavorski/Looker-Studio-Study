@@ -46,7 +46,7 @@ Este projeto tem como objetivo explorar dados de um e-commerce, armazená-los em
    ```bash
    python consultas.py
    ```
-Analisar dados e gerar gráficos
+4. **Analisar dados e gerar gráficos**
    ```bash
    python analise.py
    ```
@@ -56,7 +56,7 @@ Para visualizar os dados no **Looker Studio**:
 1. Conecte o **Google Sheets** ao seu banco de dados SQLite exportando os dados.
 2. Importe os dados do **Google Sheets** para o **Looker Studio**.
 3. Crie gráficos e dashboards interativos.
-## 🌐 Link do Looker Studio
+## 🌐 Link de exemplo Looker Studio
 Acesse os dashboards interativos no Looker Studio através deste [link](https://lookerstudio.google.com/reporting/e4feb973-42eb-4fcc-845a-edd0e46aca72)
 
 
@@ -69,11 +69,6 @@ JOIN clientes ON vendas.cliente_id = clientes.id
 GROUP BY clientes.nome
 ORDER BY total_gasto DESC;
 ```
-
-## 🚀 Melhorias Futuras
-- Automatizar a exportação dos dados para Google Sheets.
-- Implementar gráficos dinâmicos diretamente no Python.
-- Explorar outras fontes de dados e APIs.
 
 ## 🤝 Contribuição
 Sinta-se à vontade para contribuir com o projeto! Para isso:
